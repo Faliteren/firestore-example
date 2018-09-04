@@ -3,5 +3,5 @@ export interface Song {
   albumName: string;
   artistName: string;
   songDescription: string;
-  sonName: string;
+  songName: string;
 }
